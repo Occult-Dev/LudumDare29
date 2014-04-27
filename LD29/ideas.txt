@@ -1,0 +1,35 @@
+a miner got trapped, you are playing through his mind of all the recent memories leading up to the inccident, things bcome more and more familiar, until you get to the end and see your body, it's a glowing white light, you go near it and your eyes open up to you in a hospital bed, you're informed of the accident.
+
+
+
+
+SCRIPT:
+-------
+
+This... Is Jacob...
+
+Jacob Can Fall Down Off Of Things, Such As Ledges, Rocks, Or Even Into Holes...
+(bonus: if player idles say "just do it jacob, we need to move long, we only got 48 hours")
+
+However, Jacob also a very unique ability to jump. With this new found talent, Jacob is able to jump over those rocks and holes, without having to fall through them...
+
+~
+Jacob doesn't understand why there's a narrator explaining all of this, he already knows how to move like a basic human being...
+
+But then it struck him... maybe this narration is just starting at the beginning of a script of some sort. Maybe this narrator is about to tell Jacob how he can also fly, or move objects with nothing but his mind...
+
+-huge rock in front of player, needs to fly or move it-
+
+But alas... the narrator did no such thing...
+
+?-hole opens up behind jacob-
+
+Looks like he must once again fall down the hole...
+(bonus: if player idles say "just do it jacob, we need to move long, we only got 48 hours")
+
+Down... that seems to be about the only thing Jacob was doing lately... falling down.
+
+
+
+
+SECRET HIDDEN SPOT: when player enters, a reverse message is played saying "wow, you actually reversed this? Congrats on finding the easter egg. If Jacob presses 1 on the keyboard, and then enters in 'LudumDare29' with no spaces, fun things begin to happen. Thanks for playing!" message can play multiple times, cheat is: Jacob gets funny hats? can jump really high/jetpack?
